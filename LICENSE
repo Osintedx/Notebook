@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Taylor A Swift
+Copyright (c) 2025 Taylor A Swift (Osintedx)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,54 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+------------------------------------------------
+VULNERABILITY DISCLOSURE NOTICE
+------------------------------------------------
+
+Any vulnerabilities disclosed within this repository have been properly reported 
+and subsequently resolved and updated within the relevant software systems, 
+websites, and applications.
+
+This documentation exists solely for educational purposes and to demonstrate 
+the importance of proper authentication systems in protecting sensitive data.
+
+------------------------------------------------
+LEGAL NOTICE REGARDING COMPUTER INTRUSION LAWS
+------------------------------------------------
+
+Users of this repository are advised that unauthorized access to computer systems
+is illegal under various US laws, including but not limited to:
+
+1. The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030
+   - Prohibits accessing a computer without authorization or exceeding authorized access
+   - Penalties include up to 10 years imprisonment for first offenses (20 years for repeat offenses)
+   - Civil actions may also be brought against violators
+
+2. Electronic Communications Privacy Act (ECPA)
+   - Prohibits interception of electronic communications without authorization
+   - Includes penalties of up to 5 years imprisonment and/or fines
+
+3. State Computer Crime Laws
+   - Most states have enacted their own computer crime statutes with various penalties
+
+4. The Economic Espionage Act
+   - Criminalizes theft of trade secrets, including through electronic means
+   - Penalties include up to 10 years imprisonment and significant fines
+
+Unauthorized access, defined as entering any part of a computer system without 
+permission from the system owner, can constitute a federal crime regardless of 
+whether any data is viewed, copied, modified, or damaged. "Exceeding authorized 
+access" occurs when a person with limited permission to access a system goes 
+beyond those limitations.
+
+Responsible security research follows proper disclosure protocols:
+- Obtain proper authorization before testing
+- Report vulnerabilities directly to the affected organization
+- Allow reasonable time for remediation before public disclosure
+- Never exploit vulnerabilities for personal gain or to cause harm
+- Follow established disclosure timelines and procedures
+
+This repository documents vulnerabilities that were discovered through ethical 
+security research and reported through proper channels, with disclosure occurring 
+only after remediation was completed.
