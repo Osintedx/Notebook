@@ -38,3 +38,38 @@ Vulnerability disclosure is the process of identifying, reporting, and sharing i
 
 ### The Disclosure Workflow
 
+The responsible vulnerability disclosure process follows these key steps:
+
+1. **Initial Discovery**
+   - Identify potential security issue through ethical testing
+   - Verify the vulnerability is reproducible
+   - Assess potential impact and severity
+
+2. **Documentation & Research**
+   - Document technical details thoroughly
+   - Research if the vulnerability has been previously reported
+   - Prepare clear reproduction steps
+
+3. **Responsible Notification**
+   - Contact the affected organization through official channels
+   - Provide clear documentation and evidence
+   - Establish communication timeline and expectations
+
+4. **Collaborative Remediation**
+   - Offer additional information if requested
+   - Provide feedback on proposed fixes if appropriate
+   - Respect the organization's remediation timeline
+
+5. **Verification**
+   - Test the implemented fix when available
+   - Confirm the vulnerability has been properly addressed
+   - Document the resolution process
+
+6. **Public Disclosure**
+   - Coordinate disclosure timing with the affected organization
+   - Share appropriate technical details to help others learn
+   - Give proper credit to all involved parties
+
+This workflow balances the need for security issues to be fixed with the responsible handling of sensitive information.
+
+
